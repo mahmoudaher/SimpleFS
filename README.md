@@ -1,4 +1,3 @@
-HEAD
 # Simple File System Simulator (SimpleFS)
 
 # Project Description
@@ -30,5 +29,3 @@ The system mimics the structure of a basic file system with a **metadata section
 
 # How to Compile?
 with bash - command : make
-
-# SimpleFS
